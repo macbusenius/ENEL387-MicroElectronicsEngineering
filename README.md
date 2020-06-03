@@ -11,7 +11,7 @@ This project is an electronic system for ENEL387 Microcomputer System Design bas
     <td>Back View</td>
   </tr>
   <tr>
-    <td><img src="ProjectDocumentation/Images/topview.PNG" width=400 height=419></td>
+    <td><img src="ProjectDocumentation/Images/topview.PNG" width=400 height=311></td>
     <td><img src="ProjectDocumentation/Images/backView.PNG" width=400 height=311></td>
   </tr>
  </table>
