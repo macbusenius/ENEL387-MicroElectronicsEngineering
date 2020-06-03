@@ -36,5 +36,5 @@ Gunjeet Dhaliwal
 #### Speacial Thanks:
 - Dr. Lei Zhang
   - Microcomputer Systems Design Professor
- - Dave Duguid
+- Dave Duguid
   - Microcomputer Systems Design Lab Professor
