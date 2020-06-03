@@ -4,8 +4,7 @@
 
 This project is an electronic system for ENEL387 Microcomputer System Design based on the STM32F100 ARM Cortex-M3 micro controller and ENEL384 carrier board. My partner and I designed, implemented and deployed software to create a embedded robotic vehicle implemented in C to avoid objects using a series of digital and analog sensors. In addition to creating working software we also build the complete system from various online retailers. Here are pictures of our completed system:  
 
-<img align="center" src="ProjectDocumentation/Images/topview.PNG" width=400 height=419></td>
-<img align="center" src="ProjectDocumentation/Images/backView.PNG" width=400 height=311></td>
+<img align="center" src="ProjectDocumentation/Images/topview.PNG" width=400 height=419></td> <img align="center" src="ProjectDocumentation/Images/backView.PNG" width=400 height=311></td>
 
 
 
