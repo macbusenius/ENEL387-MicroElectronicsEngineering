@@ -27,11 +27,11 @@ This project is an electronic system for ENEL387 Microcomputer System Design bas
 
 ## Project Development
 #### Design Documentation
-> [Project Proposal](ProjectDocumentation/Design/387ProjectProposal.pdf): Includes the inital design proposal (pre COVID-19)   
-> [Robot Schematic](ProjectDocumentation/Design/RobotSchematic.pdf): Final robot schematic(includes pin map)
+> [Project Proposal](ProjectDocumentation/Design/387ProjectProposal.pdf): Includes the inital design proposal (Pre COVID-19)   
+> [Robot Schematic](ProjectDocumentation/Design/RobotSchematic.pdf): Final robot schematic (Includes pin map)
 
 #### Reporting Documentation
-> [Project Report](ProjectDocumentation/Reporting/ProjectReport.pdf): This document is overview of the system design and the breakdown of the design decisions (includes post COVID-19 modifications)
+> [Project Report](ProjectDocumentation/Reporting/ProjectReport.pdf): This document is overview of the system design and the breakdown of the design decisions (Includes post COVID-19 modifications)
 
 ## Project Code
 > [Project Code](ProjectCode): Find all our code here
