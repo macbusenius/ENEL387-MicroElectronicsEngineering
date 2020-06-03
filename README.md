@@ -7,8 +7,8 @@ This project is an electronic system for ENEL387 Microcomputer System Design bas
 
 <table align="center">
   <tr>
-    <td>Top View</td>
-    <td>Back View</td>
+    <td align="center">Top View</td>
+    <td align="center">Back View</td>
   </tr>
   <tr>
     <td><img src="ProjectDocumentation/Images/topview.PNG" width=400 height=311></td>
