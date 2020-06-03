@@ -2,8 +2,9 @@
   Microcomputer Systems Engineering
 </h1>
 
+This project is an electronic system for ENEL387 Microcomputer System Design based on the STM32F100 ARM Cortex-M3 micro controller and ENEL384 carrier board. This project is an embedded robotic vehicle implemented in C to avoid objects using a series of digital and analog sensors. 
+
 ## Table of contents
-- [Introduction](#introduction)
 - [Project Development](#project-development)
   - [Design Documentation](#design-documentation)
   - [Reporting Documentation](#reporting-documentation)
@@ -11,9 +12,6 @@
 - [System Requirements](#system-requirements)
 - [Contributors](#contributors)
 - [Credits](#credits)
-
-## Introduction
-This project is an electronic system for ENEL387 Microcomputer System Design based on the STM32F100 ARM Cortex-M3 micro controller and ENEL384 carrier board. This project is an embedded robotic vehicle implemented in C to avoid objects using a series of digital and analog sensors. 
 
 ## Project Development
 #### Design Documentation
