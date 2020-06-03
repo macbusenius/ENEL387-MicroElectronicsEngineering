@@ -16,14 +16,14 @@ This project is an electronic system for ENEL387 Microcomputer System Design bas
 ## Project Development
 #### Design Documentation
 Includes the inital design proposal (pre COVID-19)
-> [Project Proposal](ProjectDocumentation/Design/387ProjectProposal.pdf)
-> [Robot Schematic](ProjectDocumentation/Design/RobotSchematic.pdf)
+> [Project Proposal](ProjectDocumentation/Design/387ProjectProposal.pdf) 
+> [Robot Schematic](ProjectDocumentation/Design/RobotSchematic.pdf) 
 
 #### Reporting Documentation
-> [Project Report](ProjectDocumentation/ProjectReport.pdf): This document is overview of the system design and the breakdown of the design decisions (includes post COVID-19 modifications)
+> [Project Report](ProjectDocumentation/Reporting/ProjectReport.pdf): This document is overview of the system design and the breakdown of the design decisions (includes post COVID-19 modifications)
 
 ## Project Code
-> [Project Code](Project Code): Find all our code here.
+> [Project Code](ProjectCode): Find all our code here.
 
 ## System Requirements
 - **Software**: Keil uVision5
@@ -31,7 +31,8 @@ Includes the inital design proposal (pre COVID-19)
 
 ## Contributors
 Authors of this project:  
-[Mckenzie Busenius](https://github.com/macbusenius) .[Gunjeet Dhaliwal]
+[Mckenzie Busenius](https://github.com/macbusenius) 
+- Gunjeet Dhaliwal
 
 ## Credits
 #### Speacial Thanks:
