@@ -17,7 +17,6 @@ This project is an electronic system for ENEL387 Microcomputer System Design bas
 #### Design Documentation
 Includes the inital design proposal (pre COVID-19)
 > [Project Proposal](ProjectDocumentation/Design/387ProjectProposal.pdf)
-
 > [Robot Schematic](ProjectDocumentation/Design/RobotSchematic.pdf) 
 
 #### Reporting Documentation
@@ -33,7 +32,7 @@ Includes the inital design proposal (pre COVID-19)
 ## Contributors
 Authors of this project:  
 [Mckenzie Busenius](https://github.com/macbusenius) 
-- Gunjeet Dhaliwal
+Gunjeet Dhaliwal
 
 ## Credits
 #### Speacial Thanks:
