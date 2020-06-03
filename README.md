@@ -30,7 +30,6 @@ Includes the inital design proposal (pre COVID-19)
 - **Language**: C
 
 ## Contributors
-Authors of this project:  
 [Mckenzie Busenius](https://github.com/macbusenius)   
 Gunjeet Dhaliwal
 
